@@ -1,6 +1,6 @@
 # bbakbbak2-license
 
-> 빡빡이 라이센스 ![License](https://img.shields.io/badge/License-bbakbbak2-blue.svg)
+> MIT License 기반 빡빡이 라이센스 ![License](https://img.shields.io/badge/License-bbakbbak2-blue.svg)
 
 [![camefrom](/babo.png)](https://twitter.com/suckzo_o/status/955653573496356864)
 
